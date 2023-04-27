@@ -1,3 +1,3 @@
 # Cinema_Room_Manager 
-[Project link](https://hyperskill.org/projects/138) \n
-<br>[My jetBrains Academy profile](https://hyperskill.org/profile/245202926)
+[Project link](https://hyperskill.org/projects/138)
+<br>[My jetBrains Academy profile Abdelmaseh Nabil Welson](https://hyperskill.org/profile/245202926)
